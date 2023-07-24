@@ -378,9 +378,9 @@ h5 {
     padding-left: 60%;
   }
   
-  .features:not(:first-of-type) {
+  /* .features:not(:first-of-type) {
     margin-top: 150px;
-  }
+  } */
   
   .features .pic {
     position: absolute;
